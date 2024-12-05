@@ -1,8 +1,12 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi! I'm Renuel Jeremi
+A software developer and a 3rd year Computer Science student <br/>
+Studying at Saint Louis University
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# Connect with me:
+
+# Technology Stack
+
+# GitHub Stats
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenuel&layout=compact)
