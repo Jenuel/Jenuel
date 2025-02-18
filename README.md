@@ -1,7 +1,7 @@
 <img src="images/header.jpg">
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Example&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=Jenuel&label=Profile+Views" />
 </p>
 
 <p align=center>
