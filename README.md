@@ -32,6 +32,7 @@ I also love to explore new technologies to increase my repertoire⭐.
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-2f2f2f?logo=anthropic&logoColor=white&style=for-the-badge)
 
 
 
