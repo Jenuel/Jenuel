@@ -1,5 +1,6 @@
+<h1 align="center">Hi👋, I'm Renuel Jeremi </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jenuel&label=Profile+Views" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;AI+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -34,10 +35,7 @@ I also love to explore new technologies to increase my repertoire⭐.
 
 
 
-
-
-
-
-
 ## 📊 GitHub Stats
-![Renuel Jeremi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jenuel&show_icons=true&theme=radical)
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jenuel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Renuel Jeremi's Github Stats">
+</p>
