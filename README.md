@@ -3,11 +3,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;AI+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center">
-I'm a third year student taking a degree in Computer Science at Saint Louis University 🏫, Baguio City, Philippines 🇵🇭.  
-I am passionate about technology, problem-solving, and continuous learning💖.  
-I am interested in web development, especially backend systems, and machine learning🧠.  
-I also love to explore new technologies to increase my repertoire⭐.
+<p align="justify">
+  Hello, I'm Renuel Jeremi, a senior university student taking a degree in Computer Science at Saint Louis University 🏫, Baguio City, Philippines 🇵🇭.
+  I primarily code in Python and JavaScript ecosystems, but rest assured, I can devour👹 any tech stack that comes in my way🔥.
+    
+  I absolutely love learning with technology, problem-solving, and a believer🧘 to continuous learning💖. My passion? Web applications development, with specialty in backend engineering.. But the fun doesn't stop there—I also dive deep into Artificial Intelligence and Machine Learning to keep things exciting and make tech smarter. 🧠🚀
+
+I’m always on the lookout for the latest trends to keep my skills sharp and fresh. If you’re after someone who’s not only driven but knows how to enjoy the process, let’s chat!
 </p>
 
 ## 🛠 Technology Stack
@@ -26,14 +28,15 @@ I also love to explore new technologies to increase my repertoire⭐.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-2f2f2f?logo=anthropic&logoColor=white&style=for-the-badge)
-
+![MCP](https://img.shields.io/badge/MCP-2f2f2f?logo=modelcontextprotocol&logoColor=white&style=for-the-badge)
+![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white&style=for-the-badge)
 
 
 ## 📊 GitHub Stats
