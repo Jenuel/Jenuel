@@ -40,6 +40,15 @@ I’m always on the lookout for the latest trends to keep my skills sharp and fr
 
 
 ## 📊 GitHub Stats
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jenuel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Renuel Jeremi's Github Stats">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Jenuel&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=4CAF50&text_color=EDEDED&bg_color=0d1117" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenuel&layout=compact&langs_count=20&hide_border=true&title_color=4CAF50&text_color=EDEDED&bg_color=0d1117" 
+    alt="Top Languages" 
+    height="180"
+  />
 </p>
